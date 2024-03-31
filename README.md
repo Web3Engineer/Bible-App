@@ -1,4 +1,4 @@
-# Simple Bible Web App
+# Simple Bible & Adventure Web App
 • Online / Offline Bible Reading & Adventure Web App<br><br>
 • Saves & Bookmarks Your Progress As You Read Automatically!<br><br>
 • New MMORP Game Coming Soon:  "ＳｃｒｉｐｔｕｒｅＳｃａｐｅ" ❗ (Biblicaly Based RuneScape Style Game)<br><br>
